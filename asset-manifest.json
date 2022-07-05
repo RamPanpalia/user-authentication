@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/userauthentication/static/css/main.93dc7f5f.css",
-    "main.js": "/userauthentication/static/js/main.83a5ebd5.js",
-    "static/js/787.88279296.chunk.js": "/userauthentication/static/js/787.88279296.chunk.js",
-    "index.html": "/userauthentication/index.html",
-    "main.93dc7f5f.css.map": "/userauthentication/static/css/main.93dc7f5f.css.map",
-    "main.83a5ebd5.js.map": "/userauthentication/static/js/main.83a5ebd5.js.map",
-    "787.88279296.chunk.js.map": "/userauthentication/static/js/787.88279296.chunk.js.map"
+    "main.css": "/user-authentication/static/css/main.93dc7f5f.css",
+    "main.js": "/user-authentication/static/js/main.fae5c2b6.js",
+    "static/js/787.88279296.chunk.js": "/user-authentication/static/js/787.88279296.chunk.js",
+    "index.html": "/user-authentication/index.html",
+    "main.93dc7f5f.css.map": "/user-authentication/static/css/main.93dc7f5f.css.map",
+    "main.fae5c2b6.js.map": "/user-authentication/static/js/main.fae5c2b6.js.map",
+    "787.88279296.chunk.js.map": "/user-authentication/static/js/787.88279296.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93dc7f5f.css",
-    "static/js/main.83a5ebd5.js"
+    "static/js/main.fae5c2b6.js"
   ]
 }
