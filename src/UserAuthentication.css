@@ -1,0 +1,31 @@
+.authenticate-main{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: auto;
+    width: 500px;
+    display: flex;
+    box-shadow: 8px 8px 100px gray;
+    border-radius: 5px;
+}
+.box{
+    border-radius: 5px;
+    padding: 30px;
+}
+.box1{
+    width: 30%;
+    background-color: #441c74;
+    color: white;
+}
+.box2{
+    width: 70%;
+}
+.toggleText{
+    color: gray;
+}
+.toggler{
+    color: #441c74;
+    font-weight: 700;
+    cursor: pointer;
+}

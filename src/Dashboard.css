@@ -1,0 +1,17 @@
+.Dashboard{
+    display: flex;
+    background-color: #441c74;
+    padding: 30px;
+}
+.Dashboard-head{
+    height: 60px;
+    color: white;
+}
+.logout-btn{
+    padding: 10px 20px;
+    box-shadow: inset 3px 3px 50px #7b55aa;
+    color: white;
+    border-radius: 8px;
+    margin-left: auto;
+    cursor: pointer;
+}
